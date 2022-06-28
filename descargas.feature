@@ -13,24 +13,4 @@
                 <a href="https://consumer.huawei.com/pe/community/list/?forumId=40469&gclid=CjwKCAjw5NqVBhAjEiwAeCa97a2fyCI7RcXZcmEwmzowWenMMsjlpVXNhVAiiD2jV4JxIXwplCQR5hoCx9YQAvD_BwE"  target="_blank"><img class ="imgdownload"src="assets/images/appgallery.png" > </a>
             </div>
         </div>
-    </section>
-
-
-
-(johan)
-Contactanos---------------------------------contactanos.feature
-<section class="contact" id="contacto">
-        <div class="row">
-            <h1 class="primarycolor type grande" >Contáctanos</h1>
-        </div>
-        <div class="row">
-            <form>
-                <input type="text" placeholder="Ingresa tu nombre">
-                <input type="email" placeholder="Ingresa tu email">
-                <input type="text" placeholder="Ingresa tu teléfono">
-                <textarea>Ingrese un mensaje</textarea>
-                <input type="submit" class="type pequeño" value="Enviar" id="botonContacto">
-            </form>
-        </div>
-
-    </section>
+</section>
